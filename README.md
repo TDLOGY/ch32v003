@@ -1,3 +1,8 @@
+__Advertisement__
+#### Order easy online at:
+- __[CH32V003F4P6 ](https://linhkienthuduc.com/module-4g-3g-2g-gps-simcom-sim7600ce-m1s-lte-cat-4-ra-chan)__ - CH32V003F4P6
+----
+
 # 32-bit general-purpose RISC-V MCU-CH32V003
 EN | [中文](README_zh.md)
 
